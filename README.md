@@ -1,7 +1,7 @@
 
 
 ## Hi There! I'm Bruce.
-### Frontend Dev | Mobile Dev | FullStack （with 3 yoe）👨‍💻 
+### FullStack Dev👨‍💻 
 <br>
 <img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
