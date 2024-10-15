@@ -26,12 +26,12 @@ const Evan = {
     languages:["english","chinese"],
     askMeAbout: ["app dev", "web dev","full stack"],
     technologies:{
-        backEnd: ["nodejs", "express", "java"],
+        backEnd: ["nodejs", "express", "go"],
         frontEnd: ["typescript","react","vue",'nextjs'],
-        mobileApp: ["reactNative","expo","android","Kotlin"],
-        database: ["mongo","mySql"],
-        devOps: ["Nginx", "Jenkins","Docker"],
-        misc: ["Socket.IO","WebRtc"]
+        mobileApp: ["reactNative"],
+        database: ["mongo","postgreSQL","mySql"],
+        devOps: ["Jenkins","Docker"],
+        misc: ["Socket.IO"]
     },
     architecture: [ "microservices", "Single page applications"],
 }
