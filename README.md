@@ -3,7 +3,6 @@
 ## Hi There! I'm Bruce.
 ### FullStack Dev👨‍💻 
 <br>
-<img align='right' src="https://i.imgur.com/OOpRj.gif" width="230">
 
 [![](https://img.shields.io/badge/Gmail-bruce000101@gmail.com-red)](mailto:bruce000101@gmail.com)
 
@@ -14,7 +13,7 @@
 
 ## [Click here to my Portfolio!](https://guanxing-lan.dev)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">little infos about me 👇 
+### little infos about me 👇 
 
 
 
