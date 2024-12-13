@@ -21,7 +21,7 @@
 
 
 ```javascript
-const Evan = {
+const Bruce = {
     pronouns: "He" | "Him",
     languages:["english","chinese"],
     askMeAbout: ["app dev", "web dev","full stack"],
