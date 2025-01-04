@@ -6,11 +6,6 @@
 
 [![](https://img.shields.io/badge/Gmail-bruce000101@gmail.com-red)](mailto:bruce000101@gmail.com)
 
-
-
-### ⭐️ Explore My Portfolio!
-#### Discover more about my work and how to connect with me. Dive into a selection of demo videos I've created to introduce my projects and showcase my skills.
-
 ## [Click here to my Portfolio!](https://guanxing-lan.dev)
 
 ### little infos about me 👇 
